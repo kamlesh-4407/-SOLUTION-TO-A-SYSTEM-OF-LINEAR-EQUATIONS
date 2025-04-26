@@ -28,7 +28,8 @@ print(result)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/ad61e92a-fc03-437e-84e5-a57b4ae47e7e)
+![image](https://github.com/user-attachments/assets/f94bd220-f722-41f4-ac7b-efeac937af0c)
+
 
 
 ## Result: 
